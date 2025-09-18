@@ -1,26 +1,20 @@
-# Fernando Estrada
-### University Student
+# fernando estrada
+### university student
 
-## Research Interests
+## research interests
 
- - Operating Systems
- - Embedded Hardware & Systems
- - Mechatronics
+ - operating systems
+ - embedded hardware & systems
+ - mechatrhonics
 
-## Skills
+## skills
 
- - Natural Language: Spanish (Native), English (Native), French (B1), Japanese (JLPT-N4)
- - Programming Language: TypeScript, C, Lua
- - Frameworks/Tools: React, Node.js, Docker, Git, PostgreSQL, AWS, Vercel
- - OS & Embedded Systems: macOs, Linux, x86 Assembly, Arduino, Raspberry Pi, Bash scripting
+ - natural language: spanish (native), english (native), french (B1), japanese (JLPT-N4)
+ - programming language: TypeScript, C, Lua
+ - frameworks/tools: React, Node.js, Docker, Git, PostgreSQL, AWS, Vercel
+ - OS & embedded systems: macOs, Linux, x86 Assembly, Arduino, Raspberry Pi, Bash scripting
 
-## Education/Certificates
+## education/certificates
 
  - B.Sc. in Computer Engineering - Universidad Alfonso X El Sabio, Madrid - Present
  - Fullstack Software Engineering Bootcamp - Virginia Polytechnic Institute and State University - 2025
-
-## Contact
- - E-mail: TBD
- - LinkedIn: TBD
- - Portfolio: TBD
-(sorry)
