@@ -6,7 +6,7 @@ university student, passionate about low level programming and electronics
 
  - operating systems
  - embedded hardware & systems
- - mechatrhonics
+ - mechatronics
 
 ## skills
 
