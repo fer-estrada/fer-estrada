@@ -1,7 +1,6 @@
 # fernando estrada
-### university student
 
-computer engineering student passionate about low level programming. sometimes i build stuff with arduino or raspberry pi, but i always like being close to the hardware
+university student, passionate about low level programming and electronics
 
 ## research interests
 
