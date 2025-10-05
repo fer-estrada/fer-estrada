@@ -5,7 +5,7 @@ university student, passionate about low level programming and electronics
 ## research interests
 
  - operating systems
- - embedded hardware & systems
+ - embedded systems & hardware
  - mechatronics
 
 ## skills
