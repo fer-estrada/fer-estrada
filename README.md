@@ -11,7 +11,7 @@ university student, passionate about low level programming and electronics
 ## skills
 
  - natural language: spanish (native), english (native), french (B1), japanese (JLPT-N4)
- - programming language: TypeScript, C, Lua
+ - programming language: TypeScript, C, Lua, Go
  - frameworks/libraries/tools: Node.js, Docker, Git, PostgreSQL, AWS, Vercel
  - OS & embedded systems: macOs, Linux, x86 Assembly, Arduino, Raspberry Pi, Bash scripting
 
